@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anonymous/the-life-of-lazarillo-de-tormes/clements-markham</dc:identifier>
 		<dc:date>2026-03-02T22:16:44Z</dc:date>
@@ -45,12 +45,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An itinerant Spanish boy serves under a series of masters as he travels the countryside.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An itinerant Spanish boy serves under a series of masters as he travels the countryside.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Lazarillo de Tormes is not much older than ten when, after some unfortunate choices by his stepfather, he’s turned out of his house to become a seeing companion for a blind man who travels from place to place selling cures for all types of complaints. This works out pretty well for both of them until Lazarillo, having taken a liking to his new master’s jug of wine, takes one too many sips and is violently put in his place. Finding a second master only increases his difficulties, as this one is miserly with food to the point of danger; after another misadventure he has to move on again. Over the course of many archetypal masters, Lazarillo tells the story of his boyhood.&lt;/p&gt;
 			&lt;p&gt;Published anonymously in 1554, &lt;i&gt;The Life of Lazarillo de Tormes and of His Fortunes and Adversities&lt;/i&gt; is generally held to be the first picaresque novella, and accrued considerable fame and notoriety. Its less-than-generous characterization of the priesthood saw the Inquisition place it on their list of banned books, although a couple of decades later an expurgated version was allowed. Even half a century later, &lt;a href="https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra"&gt;Cervantes&lt;/a&gt; was still referencing the work in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra/don-quixote/john-ormsby"&gt;Don Quixote&lt;/a&gt;&lt;/i&gt; as something his readership would be assumed to be familiar with.&lt;/p&gt;
 			&lt;p&gt;While the translator of this 1908 edition, Clements Markham, confidently explains in the introduction that this book was authored by Don Diego Hurtado de Mendoza, the authorship remains disputed to this day.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/53489</dc:source>
 		<dc:source>https://archive.org/details/lifeoflazarillod00markiala</dc:source>
