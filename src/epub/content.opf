@@ -65,7 +65,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Clements Markham</dc:contributor>
 		<meta property="file-as" refines="#translator">Markham, Clements</meta>
-		<meta property="schema:alternateName" refines="#translator">Sir Clements Robert Markham</meta>
+		<meta property="schema:alternateName" refines="#translator">Clements Robert Markham</meta>
 		<link href="https://en.wikipedia.org/wiki/Clements_Markham" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80069018.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
